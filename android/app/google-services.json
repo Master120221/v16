@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "348975823657",
+    "firebase_url": "https://momuflix-zso87k-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "momuflix-zso87k",
+    "storage_bucket": "momuflix-zso87k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348975823657:android:3460efce0f63bd60e01538",
+        "android_client_info": {
+          "package_name": "momuflix.aitek.cloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF-bLK2dzi6MnN92InAaKbplxWpgSZHzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
